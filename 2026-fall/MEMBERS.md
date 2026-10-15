@@ -45,6 +45,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 강경구 | [kgg2512.github.io](https://kgg2512.github.io) |
 | 오명석 | [peter-oh-kr.github.io/peter-oh.github.io](https://peter-oh-kr.github.io/peter-oh.github.io/) |
+| 양경준 | [yangkyungjun.github.io](https://yangkyungjun.github.io)
 
 ## Team 7
 
