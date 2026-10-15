@@ -45,6 +45,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 강경구 | [kgg2512.github.io](https://kgg2512.github.io) |
 | 오명석 | [peter-oh-kr.github.io/peter-oh.github.io](https://peter-oh-kr.github.io/peter-oh.github.io/) |
+| 양경준 | [yangkyungjun.github.io](https://yangkyungjun.github.io) |
 
 ## Team 7
 
@@ -88,7 +89,6 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 |------|---------------|
 | 이동영 | [dylee27.github.io](https://dylee27.github.io) |
 | 정상섭 | [seobprise.github.io](https://seobprise.github.io) |
-| 이상준 | [goaxhf02-sudo.github.io](https://goaxhf02-sudo.github.io) |
 
 ## Team 13
 
